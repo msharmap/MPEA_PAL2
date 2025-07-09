@@ -1,4 +1,4 @@
-index,Ag,Al,B,C,Ca,Co,Cr,Cu,Fe,Ga,Hf,Li,Mg,Mn,Mo,Nb,Nd,Ni,Pd,Re,Sc,Si,Sn,Ta,Ti,V,W,Y,Zn,Hardness Value (predicted),Hardness Value (measured)
+index,Ag,Al,B,C,Ca,Co,Cr,Cu,Fe,Ga,Hf,Li,Mg,Mn,Mo,Nb,Nd,Ni,Pd,Re,Sc,Si,Sn,Ta,Ti,V,W,Y,Zn,Hardness_Value_predicted,Hardness_Value_measured
 170,0,0,0,0,0,0,0,0,0.34,0,0,0,0,0,0.347,0,0,0,0,0,0,0.312,0,0,0,0,0,0,0,1041.57828,1263
 118,0,0.342,0,0,0,0,0,0,0.315,0,0,0,0,0,0.343,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1031.82048,709
 283,0,0.35,0,0,0,0,0,0,0,0,0,0,0,0.34,0.31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1025.85002,
