@@ -54,4 +54,4 @@ Johns Hopkins University to particularly promising undergraduate research endeav
 License
 ----------------
 
-PAL 2.0 code is distributed under terms of the [MIT License](https://github.com/ClancyLab/PAL2/blob/main/LICENSE.txt).
+PAL 2.0 code is distributed under terms of the [MIT License](https://github.com/msharmap/MPEA_PAL2/blob/main/LICENSE.txt).
