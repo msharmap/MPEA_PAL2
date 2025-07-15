@@ -1,6 +1,6 @@
 [![Documentation Status](https://readthedocs.org/projects/pal2/badge/?version=latest)](http://pal2.readthedocs.io/)
 
-# PAL 2.0
+# PAL 2.0 Closed-loop Materials Discovery Framework
 Welcome to PAL 2.0!
 
 The lack of efficient discovery tools for advanced functional materials remains a major bottleneck to enabling advances in the next-generation energy, health, and sustainability technologies. One main factor contributing to this inefficiency is the large combinatorial space of materials that is typically redolent of such materials-centric applications. Experimental characterization or first principles quantum mechanical calculations of all possible material candidates can be prohibitively expensive, making exhaustive approaches to determine the best candidates infeasible. As a result, there remains a need for the development of computational algorithms that can efficiently search a large parameter space for a given material application. Here, we introduce PAL 2.0, a method that combines a physics-based surrogate model with Bayesian optimization. The key contributing factor of our proposed framework is the ability to create a physics-based hypothesis using XGBoost and Neural Networks. This hypothesis provides a physics-based "prior" (or initial beliefs) to a Gaussian process model, which is then used to perform a search of the material design space.
@@ -10,8 +10,9 @@ The lack of efficient discovery tools for advanced functional materials remains 
 Documentation
 ----------------
 
-This repository contains code to implement PAL2. It 
-was created within the CONDA enviroment, and instructions 
+This repository contains code to implement PAL2 closed-loop framework which is an 
+extension of the PAL2 implementation found [here](https://github.com/ClancyLab/PAL2).
+It was created within the CONDA enviroment, and instructions 
 for installing it are available in the [Documentation](http://pal2.readthedocs.io/).
 
 * Any questions or comments please reach out via email
