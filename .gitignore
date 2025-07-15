@@ -8,4 +8,7 @@ datasets/third_pass
 datasets/plots
 datasets/.DS_Store
 datasets/phase_diagrams
+datasets/curated_MPEA_initial_training_hardness_value.csv
+scripts/__pycache__
+scripts/.ipynb_checkpoints
 
