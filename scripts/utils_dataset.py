@@ -13,7 +13,6 @@ sys.path.insert(0, './feature_engineering/')
 
 import utils_dataset as utilsd
 import input_class 
-import code_verification as verification
 import surrogate_model_inputs as model_input
 import feature_selection_methods as feature_selection
 
