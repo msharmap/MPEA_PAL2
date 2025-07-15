@@ -31,7 +31,7 @@ Contributors can be found [here](https://github.com/msharmap/MPEA_PAL2/graphs/co
 
 Citation
 ----------------
-If you use the databases or code, please cite the paper:
+If you use the databases or code, please cite the following papers:
 
 >M. Sharma Priyadarshini, O. Romiluyi, Y. Wang, K. Miskin, C. Ganley and P. Clancy, “PAL 2.0: A Physics-Driven Bayesian Optimization Framework for Material Discovery,” _Mater. Horiz._, **11**, 781, (2024). [(0.1039/D3MH01474F)](http://doi.org/10.1039/D3MH01474F)
 
