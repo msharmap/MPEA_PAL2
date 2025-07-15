@@ -13,7 +13,7 @@ Documentation
 This repository contains code to implement PAL2 closed-loop framework which is an 
 extension of the PAL2 implementation found [here](https://github.com/ClancyLab/PAL2).
 It was created within the CONDA enviroment, and instructions 
-for installing it are available in the [Documentation](http://pal2.readthedocs.io/).
+for installing and running it are available in the [Documentation](http://pal2.readthedocs.io/).
 
 * Any questions or comments please reach out via email
 to the authors of the paper.
