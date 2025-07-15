@@ -22,9 +22,9 @@ to the authors of the paper.
 Code Developers
 ----------------
 
-The PAL 2.0 code was developed by Maitreyee Sharma Priyadarshini, Seun Romiluyi, Nihaar Thakkar, Gigi Wang and Jarett Ren.
+The PAL 2.0 closed-loop code was developed by Maitreyee Sharma Priyadarshini and Jarett Ren.
 
-Contributors can be found [here](https://github.com/ClancyLab/PAL2/graphs/contributors).
+Contributors can be found [here](https://github.com/msharmap/MPEA_PAL2/graphs/contributors).
 
 <hr>
 
