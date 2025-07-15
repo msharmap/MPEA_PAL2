@@ -1,0 +1,7 @@
+{"InputType": "MPEA",
+ "InputPath":"/Users/maitreyeesharma/WORKSPACE/PostDoc/EngChem/Space@Hopkins_HEA/dataset/",
+ "InputFile":"curated_MPEA_initial_training_hardness_value.csv",
+ "AddTargetNoise":"False", 
+ "Comment":"InputType options include PerovAlloys to read the perovskite alloy dataset, PALSearch to read the PAL-search datasets, Gryffin is to read the gryffin pickle file, MPEA is to read the Space@Hopkins dataset"
+}
+ 

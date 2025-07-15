@@ -1,0 +1,11 @@
+.DS_Store
+datasets/MPEA_dataset.csv
+datasets/.ipynb_checkpoints
+datasets/macbookFiles
+datasets/first_pass
+datasets/second_pass
+datasets/third_pass
+datasets/plots
+datasets/.DS_Store
+datasets/phase_diagrams
+
